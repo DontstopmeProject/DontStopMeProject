@@ -11,5 +11,4 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-Content/Blueprints/PlayersCharacter.uasset
-Content/Blueprints/PlayersCharacter.uasset
+*.log
