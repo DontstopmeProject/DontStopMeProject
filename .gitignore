@@ -1,0 +1,6 @@
+
+*.log
+*.dmp
+*.runtime-xml
+*.tmp
+*.txt
